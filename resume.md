@@ -4,6 +4,7 @@ head: Resume
 permalink: /resume/
 ---
 <h1 align = "center">简历（周继平）</h1>
+
 # 联系方式
 * email:  zhoujipngaaa@163.com
 * QQ:  1936158051
