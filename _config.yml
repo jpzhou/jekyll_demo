@@ -40,3 +40,5 @@ exclude:
   - about.md
   - index.md
 
+sass:
+ style: compressed
