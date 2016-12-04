@@ -11,9 +11,9 @@ permalink: /resume/
 
 # 专业技能
 * 熟练掌握基本的数据结构和算法   
-* 了解并使用过经典数据挖掘/机器学习算法，如关联规则，决策树，ｋ-means等  
-* 熟悉Linux开发环境，掌握Python/Java/sql等编程语言
-* 熟悉Mysql/sql server 2005/2008等关系数据库，Redis等Nosql技术和Rabbitmq等消息中间件
+* 了解并使用过经典数据挖掘/机器学习算法，如关联规则，决策树，K-means等  
+* 熟悉Linux开发环境，掌握Python/Java/SQL等编程语言
+* 熟悉Mysql/SQL server 2005/2008等关系数据库，Redis等NoSQL技术和Rabbitmq等消息中间件
 * 熟练掌握Spark/Hive和Hadoop等大数据相关技术
 
 # 教育背景
