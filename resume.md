@@ -34,5 +34,5 @@ permalink: /resume/
 
 # 论文
 * 周继平.考虑负相关性信息和Sigmoid相似度的协同过滤算法研究[D].上海理工大学.
-* 周继平.考虑负相关性信息的协同过滤算法研究[J].计算机应用研究.2013(30),12,3543-3545.
-* 周继平.基于共同评分的协同过滤算法[J].科技与管理.2013(9),5,90-94.
+* 周继平.[考虑负相关性信息的协同过滤算法研究]({{site.baseurl}}/download/collaborative filtering algorithm by considering negative correlations.pdf)[J].计算机应用研究.2013(30),12,3543-3545.
+* 周继平.[基于共同评分的协同过滤算法]({{site.baseurl}}/download/collaboratitive filtering based on co-rating.pdf)[J].科技与管理.2013(9),5,90-94.
