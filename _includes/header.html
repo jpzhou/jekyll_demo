@@ -1,0 +1,14 @@
+<div style="text-align:right">
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="http://blog.csdn.net/jpzhoucsdn" target="_blank">My Blog</a>
+    <a href="https://github.com/jpzhou" target="_blank">Github</a>
+    {% for page in site.pages %}
+
+        {% if page.head %}
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.head }}</a>
+        {% endif %}
+
+   {% endfor %}
+
+</div>
+
